@@ -84,7 +84,7 @@ npm install
 Start the server:
 
 ```bash
-npm index.js
+node index.js
 ```
 
 This project showcases a robust RESTful API architecture with modular design, user-friendly features, and secure data handling.
